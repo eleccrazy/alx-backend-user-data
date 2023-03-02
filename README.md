@@ -1,5 +1,5 @@
 # Python, Backend, User Data, Authentication
-This repo contains programs written for the specializations track (Interview preparation codes) at ALX-Holberton 12-month software engineering program.
+This repo contains programs written for the specializations track (Backend user data codes) at ALX-Holberton 12-month software engineering program.
 ### Author
 * Gizachew Bayness
 ### Acknowledgements
